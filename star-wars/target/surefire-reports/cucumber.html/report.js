@@ -89,7 +89,7 @@ formatter.match({
   "location": "PeopleSteps.queFacoUmaRequisicaoGETPeople()"
 });
 formatter.result({
-  "duration": 4176539668,
+  "duration": 6324264809,
   "status": "passed"
 });
 formatter.match({
@@ -102,14 +102,14 @@ formatter.match({
   "location": "PeopleSteps.devoReceberUmStatusCode(int)"
 });
 formatter.result({
-  "duration": 7374571,
+  "duration": 4041390,
   "status": "passed"
 });
 formatter.match({
   "location": "PeopleSteps.os_dados_da_pessoa_pesquisada_na_tabela_abaixo(DataTable)"
 });
 formatter.result({
-  "duration": 531274371,
+  "duration": 591136741,
   "status": "passed"
 });
 formatter.uri("features/people/planet.feature");
@@ -205,7 +205,7 @@ formatter.match({
   "location": "PlanetsSteps.queFacoUmaRequisicaoGETPeople()"
 });
 formatter.result({
-  "duration": 2215340798,
+  "duration": 4183475494,
   "status": "passed"
 });
 formatter.match({
@@ -218,14 +218,14 @@ formatter.match({
   "location": "PlanetsSteps.devoReceberUmStatusCode(int)"
 });
 formatter.result({
-  "duration": 207445,
+  "duration": 168727,
   "status": "passed"
 });
 formatter.match({
   "location": "PlanetsSteps.os_dados_da_pessoa_pesquisada_na_tabela_abaixo(DataTable)"
 });
 formatter.result({
-  "duration": 7202504,
+  "duration": 7140263,
   "status": "passed"
 });
 });
